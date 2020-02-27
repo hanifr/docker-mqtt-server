@@ -29,6 +29,8 @@ more elegant setup is
 
 $ su - username
 
-$ git clone docker-mqtt-server
+$ git clone https://github.com/hanifr/docker-mqtt-server.git
+
+$ cd docker-mqtt-server
 
 $ docker-compose -up
